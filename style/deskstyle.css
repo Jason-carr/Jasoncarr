@@ -64,7 +64,7 @@ html{
 #fila3{
 	height: 0px;
 	background-color: #43525A;
-	/*border: silver;*/
+	border: silver;
 }
 
 .derecha{
@@ -72,16 +72,16 @@ html{
 	width: 400px;
 	float: right;
 	background-color: #f2f2f2;
-	/*border: silver;*/
+	border: silver;
 }
 #cabecera2>div{
 	display: inline-block;
 	background-color: #f2f2f2;
-	/*border: silver;*/
+	border: silver;
 }
 #cabecera2{
 	background-color: #f2f2f2;
-	/*border: silver;*/
+	border: silver;
 }
 
 #fondoimagen2{
@@ -91,5 +91,6 @@ html{
 	height: 0%;
 	background-image: url(fotka-surface-modules-03.16c8e5f4.jpg);
 	background-color: #f2f2f2;
-	/*border: silver;*/
+	border: silver;
+	background-position: left;
 }
