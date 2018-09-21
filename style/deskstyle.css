@@ -1,0 +1,95 @@
+#fila1{
+	height: 80px;
+	background-color: #f2f2f2;
+}
+
+#fila1>div{
+	border: 2px solid black;
+	display: inline;
+}
+
+.flotarizquierda{
+	float: left;
+}
+
+.flotarderecha{
+	float: right;
+}
+.centrar{
+	position: relative;
+	left: 390px;
+}
+
+html{ 
+	font-family: 'PT Serif', serif;
+}
+
+.izquierda{
+	text-align: left;
+	width: 300px;
+	background-color: #43525A;
+	border: silver;
+}
+
+#fila2>div{
+	display: inline-block;
+	background-color: #43525A;
+	border: silver;
+}
+
+#fila2{
+	height: 400px;
+	background-color: #43525A;
+	border: silver;
+}
+
+#cabecera{
+	margin: 0;
+	padding: 0;
+	width: 29%;
+	background-color: #43525A;
+	border: silver;
+}
+
+#fondoimagen{
+	margin: 0;
+	padding: 0;
+	width: 69%;
+	height: 100%;
+	background-image: url(hero-new-desk--cut.cb44eae5.png);  
+	background-color: #43525A; 
+	border: silver;                                                                                                                                                 
+}
+
+#fila3{
+	height: 0px;
+	background-color: #43525A;
+	/*border: silver;*/
+}
+
+.derecha{
+	text-align: right;
+	width: 400px;
+	float: right;
+	background-color: #f2f2f2;
+	/*border: silver;*/
+}
+#cabecera2>div{
+	display: inline-block;
+	background-color: #f2f2f2;
+	/*border: silver;*/
+}
+#cabecera2{
+	background-color: #f2f2f2;
+	/*border: silver;*/
+}
+
+#fondoimagen2{
+	margin: 0px;
+	padding: 223px;
+	width: 0%
+	height: 0%;
+	background-image: url(fotka-surface-modules-03.16c8e5f4.jpg);
+	background-color: #f2f2f2;
+	/*border: silver;*/
+}
